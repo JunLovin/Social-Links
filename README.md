@@ -1,7 +1,5 @@
-=======
 # Frontend Mentor - Social links profile solution
 [Click Here To See The Page](https://junlovin.github.io/Social-Links/)
-=======
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -53,4 +51,3 @@ I want focus more on flexbox and grid, for me are necessary tools to improve.
 - Website - [JunLovin](https://junlovin.github.io/Mathias)
 - Frontend Mentor - [@JunLovin](https://www.frontendmentor.io/profile/JunLovin)
 - Twitter - [@junlovin23](https://www.twitter.com/yourusername)
->>>>>>> f00185e (Add new files and finish web)
